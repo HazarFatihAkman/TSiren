@@ -74,6 +74,8 @@ CMakeFiles/siren.dir/home/hfa/Desktop/workspace/TSiren/app/main.c.o: /home/hfa/D
   /usr/include/stdc-predef.h \
   /usr/include/stdio.h \
   /usr/include/stdlib.h \
+  /usr/include/string.h \
+  /usr/include/strings.h \
   /usr/include/sys/cdefs.h \
   /usr/include/sys/select.h \
   /usr/include/sys/ttydefaults.h \
@@ -132,6 +134,8 @@ CMakeFiles/siren.dir/home/hfa/Desktop/workspace/TSiren/app/main.c.o:
 /usr/include/sys/ttydefaults.h:
 
 /usr/include/sys/cdefs.h:
+
+/usr/include/strings.h:
 
 /usr/include/gnu/stubs-64.h:
 
@@ -200,6 +204,8 @@ CMakeFiles/siren.dir/home/hfa/Desktop/workspace/TSiren/app/main.c.o:
 /usr/include/bits/byteswap.h:
 
 /usr/include/bits/time.h:
+
+/usr/include/string.h:
 
 /usr/include/bits/time64.h:
 
