@@ -1,0 +1,1 @@
+/usr/bin/cc -Wl,--dependency-file=CMakeFiles/siren.dir/link.d CMakeFiles/siren.dir/home/hfa/Desktop/workspace/TSiren/app/main.c.o -o siren
