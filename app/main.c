@@ -56,7 +56,7 @@ int main(int argv, char *args[]) {
     if (d_sec == 59) d_min--;
   } while (0 <= counter_sec);
 
-  write(STDOUT_FILENO, "\r\nSiren triggered. Press 'q' to turn off : ", 30);
+  write(STDOUT_FILENO, "\r\nSiren triggered. Press 'q' to turn off : ", 43);
   set_conio_mode(1);
   char c;
   int counter = 0;
