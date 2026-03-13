@@ -25,5 +25,7 @@ sudo mv siren /usr/local/bin
 
 ### Usage
 ```siren 5``` : 5 minutes timer.
+
 ```siren 0 30``` : 30 seconds timer.
+
 ```siren 1 30``` : 1 minutes 30 seconds timers.
