@@ -24,7 +24,7 @@ sudo mv siren /usr/local/bin
 4 - Restart your terminal and run ```siren [MIN] [SEC]```
 
 ### Usage
-```siren 5``` : 5 minutes timer.
+```siren 5 0``` : 5 minutes timer.
 
 ```siren 0 30``` : 30 seconds timer.
 
