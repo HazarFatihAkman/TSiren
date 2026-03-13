@@ -25,11 +25,13 @@ void set_conio_mode() {
 
 int main(int argv, char *args[]) {
   if (args[1] == NULL) {
-    args[1] = 0;
+    dprintf(STDOUT_FILENO, "MIN cannot be null!\r\n");
+    return 1;
   }
 
   if (args[2] == NULL) {
-    args[2] = 0;
+    dprintf(STDOUT_FILENO, "SEC cannot be null!\r\n");
+    return 1;
   }
 
   int min = atoi(args[1]);
